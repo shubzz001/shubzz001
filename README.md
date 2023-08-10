@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Zende</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubzz001" alt="shubzz001" /></a> </p>
-
 - 🌱 I’m currently learning **React-Native**
 
 - 📫 How to reach me **shubhamzende1311@gmail.com**
@@ -23,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubzz001&show_icons=true&locale=en&layout=compact" alt="shubzz001" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubzz001&show_icons=true&locale=en" alt="shubzz001" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubzz001&" alt="shubzz001" /></p> 
