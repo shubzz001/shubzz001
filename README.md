@@ -1,11 +1,17 @@
-<h1 align="center">Hi 👋, I'm Shubham Zende</h1>
+<h2 align="center">Hey there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Shubham Zende</h2>
 <h3 align="center">A passionate Software developer from India</h3>
 
 - 🌱 I’m currently learning **React-Native**
 
+- 👯 I’m looking to collaborate on **Open Source Project**
+
+- 🏫 I’m currently studying in MIT, Pune **MIT, Pune**
+
+- 💬 Ask me about **Android, Java and IOT**
+
 - 📫 How to reach me **shubhamzende1311@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFrKYqgZ8I/x5YHSp79mDkGRCU1-xpdUQ/edit?utm_content=DAFrKYqgZ8I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFrKYqgZ8I/x5YHSp79mDkGRCU1-xpdUQ/edit?utm_content=DAFrKYqgZ8I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [https://tinyurl.com/mrxds5jx](https://tinyurl.com/mrxds5jx)
 
 - ⚡ Fun fact **"Remember, if the code's doing its funky dance and the bugs are taking a nap, don't you dare disturb the coding groove, even if it looks like a digital Jackson Pollock painting!"**
 
@@ -21,3 +27,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubzz001&show_icons=true&locale=en&layout=compact" alt="shubzz001" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubzz001&show_icons=true&locale=en" alt="shubzz001" /></p>
+
