@@ -7,7 +7,7 @@
 
 - 🏫 I’m currently studying in MIT, Pune **MIT, Pune**
 
-- 💬 Ask me about **Android, Java and IOT**
+- 💬 Ask me about **Web development, JavaScript and React**
 
 - 📫 How to reach me **shubhamzende1311@gmail.com**
 
