@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shubhamzende1311@gmail.com**
 
-- 📄 Know about my experiences [https://tinyurl.com/mrxds5jx](https://tinyurl.com/resume1809)
+- 📄 Know about my experiences [https://tinyurl.com/mrxds5jx](https://tinyurl.com/resume0918)
 
 - ⚡ Fun fact **"Remember, if the code's doing its funky dance and the bugs are taking a nap, don't you dare disturb the coding groove, even if it looks like a digital Jackson Pollock painting!"**
 
